@@ -19,4 +19,6 @@ Static landing page for App Store metadata URLs.
 
 Upload the full `landing_page` folder to any static hosting service such as GitHub Pages, Vercel, Netlify, Cloudflare Pages, or your existing website host.
 
-After the app is live, replace the App Store button URL in `index.html` with the real App Store product URL.
+The App Store buttons currently point to:
+
+`https://apps.apple.com/app/vigplx-%C3%B4n-thi-l%C3%A1i-xe/id6782541195`
